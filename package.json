@@ -1,0 +1,11 @@
+{
+  "name": "titireda",
+  "version": "1.0.0",
+  "description": "Ce que je veux Node.js app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+  },
+  "author": "TonNom",
+  "license": "ISC"
+}
